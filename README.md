@@ -56,9 +56,9 @@ When I'm not coding, you'll find me exploring the latest in **AI research** or g
 
 ## 📬 **How to Reach Me**
 
-- **LinkedIn**: [Shahid Ul Islam](https://www.linkedin.com/in/irfan-rashid-bhat-3913041aa/)  
+- **LinkedIn**: [Irfan Rashid](https://www.linkedin.com/in/irfan-rashid-bhat-3913041aa/)  
 - **Email**: [bhatirfanrashid9@gmail.com](mailto:bhatirfanrashid9@gmail.com)  
-- **Portfolio**: [My Portfolio](#)
+
 
 ---
 
