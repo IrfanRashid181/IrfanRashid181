@@ -1,8 +1,8 @@
 # Hi there, I'm **Irfan Rashid** 👋
 
-Welcome to my GitHub! I'm a **Computer Science** student with a passion for **Python**, **AI**, **Machine Learning**, and **Data Science**. 🚀 I’m passionate about creating impactful solutions through data-driven insights and advanced algorithms.
+Welcome to my GitHub! I'm a **Information Technology** student with a passion for **Python**, **AI**, **Machine Learning**, and **Data Science**. 🚀 I’m passionate about creating impactful solutions through data-driven insights and advanced algorithms.
 
-When I'm not coding, you'll find me exploring the latest in **AI research** or gaming 🎮. Let's connect and build something amazing together!
+When I'm not coding, you'll find me exploring the latest in **AI research**. Let's connect and build something amazing together!
 
 ---
 
